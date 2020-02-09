@@ -1,2 +1,6 @@
 # -APIs-with-Python
 This Jupyter Notebook is intended to ride along reference journey to make API Calls...
+
+#### Just simply click on [apis-requestsLib.ipynb](apis-requestsLib.ipynb)...
+
+Blog: [Source 4 Resource](https://source4resource.blogspot.com)
